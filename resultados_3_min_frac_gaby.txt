@@ -1,0 +1,278 @@
+##########################################
+Instancia: br17.atsp
+Tempo de execução: 0.0085 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 7.117647039
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [1, 2, 3, 4, 5, 6, 9, 10, 12, 13, 14, 15]')
+(0, 11)
+(11, 7)
+(7, 8)
+(8, 16)
+##########################################
+Instancia: ft53.atsp
+Tempo de execução: 0.0590 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 5691.459122204
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [2, 3, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]')
+(0, 4)
+(4, 1)
+(1, 8)
+(8, 9)
+(9, 7)
+(7, 6)
+(6, 5)
+(5, 51)
+(51, 50)
+(50, 48)
+(48, 49)
+(49, 52)
+##########################################
+Instancia: ft70.atsp
+Tempo de execução: 0.0747 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 37364.080942305
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 20, 21, 22, 24, 25, 27, 28, 36, 40, 41, 42, 52, 53, 54, 56, 63, 64, 65, 66, 67, 68]')
+(0, 1)
+(1, 60)
+(60, 34)
+(34, 32)
+(32, 29)
+(29, 23)
+(23, 26)
+(26, 55)
+(55, 51)
+(51, 50)
+(50, 18)
+(18, 19)
+(19, 47)
+(47, 33)
+(33, 31)
+(31, 30)
+(30, 46)
+(46, 45)
+(45, 62)
+(62, 61)
+(61, 59)
+(59, 58)
+(58, 57)
+(57, 44)
+(44, 48)
+(48, 43)
+(43, 49)
+(49, 35)
+(35, 38)
+(38, 39)
+(39, 37)
+(37, 69)
+##########################################
+Instancia: ftv33.atsp
+Tempo de execução: 0.0191 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 1205.9509802498
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32]')
+(0, 1)
+(1, 2)
+(2, 3)
+(3, 30)
+(30, 33)
+##########################################
+Instancia: ftv35.atsp
+Tempo de execução: 0.0209 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 1386.0694453199997
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 33, 34]')
+(0, 1)
+(1, 3)
+(3, 2)
+(2, 4)
+(4, 32)
+(32, 30)
+(30, 26)
+(26, 25)
+(25, 24)
+(24, 19)
+(19, 20)
+(20, 21)
+(21, 22)
+(22, 23)
+(23, 27)
+(27, 28)
+(28, 29)
+(29, 31)
+(31, 35)
+##########################################
+Instancia: ftv38.atsp
+Tempo de execução: 0.0238 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 1444.6923076020003
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37]')
+(0, 1)
+(1, 3)
+(3, 2)
+(2, 4)
+(4, 35)
+(35, 38)
+##########################################
+Instancia: ftv44.atsp
+Tempo de execução: 0.0327 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 1549.5111119139997
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 39, 40, 41, 42, 43]')
+(0, 31)
+(31, 30)
+(30, 29)
+(29, 25)
+(25, 26)
+(26, 27)
+(27, 28)
+(28, 35)
+(35, 32)
+(32, 33)
+(33, 34)
+(34, 36)
+(36, 37)
+(37, 38)
+(38, 44)
+##########################################
+Instancia: ftv47.atsp
+Tempo de execução: 0.0368 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 1631.3854164529998
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]')
+(0, 25)
+(25, 47)
+##########################################
+Instancia: ftv55.atsp
+Tempo de execução: 0.0469 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 1430.5714279479996
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [3, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 48, 49, 50, 51, 52, 53, 54]')
+(0, 33)
+(33, 34)
+(34, 1)
+(1, 2)
+(2, 13)
+(13, 35)
+(35, 4)
+(4, 6)
+(6, 5)
+(5, 47)
+(47, 31)
+(31, 46)
+(46, 55)
+##########################################
+Instancia: ftv64.atsp
+Tempo de execução: 0.0633 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 1740.1189727171998
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [1, 3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, 28, 30, 31, 35, 36, 37, 40, 41, 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 60, 62]')
+(0, 61)
+(61, 27)
+(27, 26)
+(26, 23)
+(23, 49)
+(49, 22)
+(22, 59)
+(59, 25)
+(25, 63)
+(63, 32)
+(32, 29)
+(29, 55)
+(55, 33)
+(33, 56)
+(56, 38)
+(38, 2)
+(2, 4)
+(4, 39)
+(39, 5)
+(5, 6)
+(6, 57)
+(57, 58)
+(58, 34)
+(34, 64)
+##########################################
+Instancia: ftv70.atsp
+Tempo de execução: 0.0747 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 1788.0901415393998
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 39, 47, 48, 49, 50, 51, 57, 58, 59, 60, 61, 64, 66, 67]')
+(0, 65)
+(65, 44)
+(44, 45)
+(45, 53)
+(53, 43)
+(43, 42)
+(42, 69)
+(69, 41)
+(41, 38)
+(38, 36)
+(36, 37)
+(37, 63)
+(63, 40)
+(40, 68)
+(68, 62)
+(62, 52)
+(52, 46)
+(46, 54)
+(54, 55)
+(55, 56)
+(56, 70)
+##########################################
+Instancia: p43.atsp
+Tempo de execução: 0.0270 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 501.6511623839998
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 39]')
+(0, 4)
+(4, 37)
+(37, 25)
+(25, 26)
+(26, 40)
+(40, 41)
+(41, 42)
+##########################################
+Instancia: ry48p.atsp
+Tempo de execução: 0.0352 segundos
+Status PuLP: Optimal
+sol_status: 1
+Classificação: ÓTIMO PROVADO
+Valor objetivo: 12700.958327254
+(False, 'Caminho não é hamiltoniano. Vértices não visitados: [1, 2, 3, 5, 6, 7, 9, 15, 16, 17, 18, 21, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45]')
+(0, 8)
+(8, 39)
+(39, 14)
+(14, 11)
+(11, 19)
+(19, 46)
+(46, 20)
+(20, 12)
+(12, 10)
+(10, 22)
+(22, 13)
+(13, 24)
+(24, 4)
+(4, 47)
