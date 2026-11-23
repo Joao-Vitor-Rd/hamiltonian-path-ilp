@@ -1,0 +1,78 @@
+##########################################
+Instancia: br17.atsp
+Heurística inicial (NN): custo = 56 | tempo = 0.0002s
+ILS-melhor: melhor = 34 | média = 34.0 | custos = [34, 34, 34]
+ILS-SA: melhor = 34 | média = 34.0 | custos = [34, 34, 34]
+ILS-restart: melhor = 34 | média = 34.0 | custos = [34, 34, 34]
+##########################################
+Instancia: ft53.atsp
+Heurística inicial (NN): custo = 9583 | tempo = 0.0001s
+ILS-melhor: melhor = 7204 | média = 7362.3 | custos = [7615, 7204, 7268]
+ILS-SA: melhor = 7120 | média = 7860.0 | custos = [8262, 7120, 8198]
+ILS-restart: melhor = 7268 | média = 7535.0 | custos = [7615, 7722, 7268]
+##########################################
+Instancia: ft70.atsp
+Heurística inicial (NN): custo = 42057 | tempo = 0.0002s
+ILS-melhor: melhor = 41445 | média = 41588.7 | custos = [41445, 41581, 41740]
+ILS-SA: melhor = 41927 | média = 41927.0 | custos = [41927, 41927, 41927]
+ILS-restart: melhor = 41445 | média = 41588.7 | custos = [41445, 41581, 41740]
+##########################################
+Instancia: ftv33.atsp
+Heurística inicial (NN): custo = 1547 | tempo = 0.0001s
+ILS-melhor: melhor = 1321 | média = 1334.0 | custos = [1346, 1335, 1321]
+ILS-SA: melhor = 1275 | média = 1289.7 | custos = [1319, 1275, 1275]
+ILS-restart: melhor = 1311 | média = 1324.3 | custos = [1335, 1327, 1311]
+##########################################
+Instancia: ftv35.atsp
+Heurística inicial (NN): custo = 1750 | tempo = 0.0001s
+ILS-melhor: melhor = 1503 | média = 1515.0 | custos = [1539, 1503, 1503]
+ILS-SA: melhor = 1464 | média = 1480.0 | custos = [1508, 1464, 1468]
+ILS-restart: melhor = 1522 | média = 1529.7 | custos = [1522, 1539, 1528]
+##########################################
+Instancia: ftv38.atsp
+Heurística inicial (NN): custo = 1828 | tempo = 0.0001s
+ILS-melhor: melhor = 1576 | média = 1585.3 | custos = [1576, 1582, 1598]
+ILS-SA: melhor = 1565 | média = 1582.3 | custos = [1565, 1617, 1565]
+ILS-restart: melhor = 1559 | média = 1576.7 | custos = [1564, 1607, 1559]
+##########################################
+Instancia: ftv44.atsp
+Heurística inicial (NN): custo = 1933 | tempo = 0.0001s
+ILS-melhor: melhor = 1697 | média = 1732.0 | custos = [1697, 1801, 1698]
+ILS-SA: melhor = 1725 | média = 1758.3 | custos = [1755, 1725, 1795]
+ILS-restart: melhor = 1801 | média = 1844.3 | custos = [1876, 1801, 1856]
+##########################################
+Instancia: ftv47.atsp
+Heurística inicial (NN): custo = 2298 | tempo = 0.0001s
+ILS-melhor: melhor = 2002 | média = 2047.3 | custos = [2002, 2009, 2131]
+ILS-SA: melhor = 1852 | média = 2019.0 | custos = [2082, 1852, 2123]
+ILS-restart: melhor = 2077 | média = 2140.0 | custos = [2195, 2077, 2148]
+##########################################
+Instancia: ftv55.atsp
+Heurística inicial (NN): custo = 2052 | tempo = 0.0001s
+ILS-melhor: melhor = 1835 | média = 1870.3 | custos = [1903, 1873, 1835]
+ILS-SA: melhor = 1877 | média = 1943.7 | custos = [1877, 2023, 1931]
+ILS-restart: melhor = 1835 | média = 1890.7 | custos = [1964, 1873, 1835]
+##########################################
+Instancia: ftv64.atsp
+Heurística inicial (NN): custo = 2586 | tempo = 0.0002s
+ILS-melhor: melhor = 2350 | média = 2393.0 | custos = [2383, 2446, 2350]
+ILS-SA: melhor = 2351 | média = 2418.7 | custos = [2351, 2439, 2466]
+ILS-restart: melhor = 2350 | média = 2444.3 | custos = [2537, 2446, 2350]
+##########################################
+Instancia: ftv70.atsp
+Heurística inicial (NN): custo = 2637 | tempo = 0.0002s
+ILS-melhor: melhor = 2366 | média = 2452.3 | custos = [2544, 2366, 2447]
+ILS-SA: melhor = 2375 | média = 2440.7 | custos = [2375, 2417, 2530]
+ILS-restart: melhor = 2366 | média = 2452.3 | custos = [2544, 2366, 2447]
+##########################################
+Instancia: p43.atsp
+Heurística inicial (NN): custo = 642 | tempo = 0.0001s
+ILS-melhor: melhor = 589 | média = 589.0 | custos = [589, 589, 589]
+ILS-SA: melhor = 589 | média = 589.0 | custos = [589, 589, 589]
+ILS-restart: melhor = 589 | média = 589.0 | custos = [589, 589, 589]
+##########################################
+Instancia: ry48p.atsp
+Heurística inicial (NN): custo = 17971 | tempo = 0.0001s
+ILS-melhor: melhor = 14070 | média = 14070.0 | custos = [14070, 14070, 14070]
+ILS-SA: melhor = 14070 | média = 14070.0 | custos = [14070, 14070, 14070]
+ILS-restart: melhor = 14070 | média = 14070.0 | custos = [14070, 14070, 14070]
